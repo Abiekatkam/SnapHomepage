@@ -1,6 +1,6 @@
 # Live Output
 
-[]()
+[click here](https://abiekatkam.github.io/SnapHomepage/)
 
 # Frontend Mentor - Intro section with dropdown navigation
 
